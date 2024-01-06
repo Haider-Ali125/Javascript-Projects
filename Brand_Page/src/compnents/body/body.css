@@ -1,0 +1,34 @@
+.main_body{
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    padding: 35px 8%;
+}
+
+.main-1 {
+    box-sizing: border-box;
+   width: 50%;
+   padding: 5% 10%;
+}
+
+.main-head{
+
+    font-size: 72px;
+    text-transform: uppercase;
+    }
+    
+.main-2{
+    box-sizing: border-box;
+    width: 50%;
+}
+
+.main-2 img{
+    padding: 10% 20%;
+    height: 487.06px;
+    width: 530px;
+}
+
+
+
+
+

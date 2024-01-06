@@ -1,0 +1,44 @@
+
+.nav-main{
+    display: flex;
+    align-items: center;
+    justify-content:space-between ;
+    padding: 0 6% ;
+
+}
+.nav-menu ul{
+    display: flex;
+    list-style: none;
+    align-items: center ;
+    justify-content: center;
+    gap: 12%;
+    font-size: medium;
+    font-weight: bold;
+    text-transform: uppercase;
+   
+}
+.nav-main img{
+    height: 42.75px;
+    width: 76px;
+}
+
+.nav-main button{
+    width: 75px;
+    height: 31px;
+    background-color: #D01C28 ;
+    color: aliceblue;
+    border: none;
+    border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
